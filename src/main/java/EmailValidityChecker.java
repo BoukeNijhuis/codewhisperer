@@ -1,4 +1,4 @@
-public class EmailValidatyChecker {
+public class EmailValidiyChecker {
 
     /**
      * Checks if an email address is valid by using a regular expression.
